@@ -1,6 +1,6 @@
-# Cloudflare Workers with Hono and Drizzle scaffolding
+# Cloudflare Workers scaffolding con Hono y Drizzle
 
-1. Package installations.
+1. Instalación de paquetes.
 
 ```bash
 bun i
